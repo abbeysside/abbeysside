@@ -1,4 +1,4 @@
-### Hi there 👋
+Hoi, don't let my contribution timeline deceive you, I'm active, and am actually have been programming almost every day for the past year. I just prefer to work locally and collaborate with others in private repositories. 🐝
 
 <!--
 **abbeysside/abbeysside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
